@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcoZCert, full name: Marco Teunissen van Manen
+- 👋 Hi, I’m Marco Teunissen van Manen
 - 👀 I’m interested in AI, Games, Software Architecture/Development
 - 🌱 I’m currently learning more about FastAPI, Pydantic, SQLAlchemy, pytest, alembic
 - 💞️ I’m looking to collaborate on no projects yet
